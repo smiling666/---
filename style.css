@@ -1,0 +1,27 @@
+.parent{
+    background-color: chocolate;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+.child{
+    background-color: blue;
+    height: 50px;
+    width:50px;
+    border: 1px dashed green;
+
+}
+.neighbor{
+    height: 150px;
+    width: 300px;
+    border: 2px dashed rebeccapurple ;
+}
+.block-pg{
+    height: 150px;
+    width: 350px;
+    border: 2px dashed red;
+    background-image: url(/images.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
